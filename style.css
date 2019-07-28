@@ -1,3 +1,20 @@
+
 h1{
-	color:pink;
+	color:#D9D162;
+	font: Garamond;
 }
+
+h2{color:#8C8737;}
+
+body{background:#262626;
+	color: white;
+	font: Garamond;
+
+}
+
+/* Color Theme Swatches in Hex */
+.Spoon-with-allspice-on-a-dark-stone-background-1-hex { color: #0A0140; }
+.Spoon-with-allspice-on-a-dark-stone-background-2-hex { color: #8C8737; }
+.Spoon-with-allspice-on-a-dark-stone-background-3-hex { color: #D9D162; }
+.Spoon-with-allspice-on-a-dark-stone-background-4-hex { color: #262626; }
+
